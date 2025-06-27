@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username_hint_en">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="english">अंग्रेजी</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="gujarati">गुजराती</string>
+    <string name="urdu">उर्दू</string>
+    <string name="next">अगला</string>
+    <string name="enter_username">कृपया उपयोगकर्ता नाम दर्ज करें</string>
+
+    <!--userinfo-->
+    <string name="first_name_hint">पहला नाम</string>
+    <string name="last_name_hint">अंतिम नाम</string>
+    <string name="phone_hint">फोन नंबर</string>
+    <string name="age_hint">आयु</string>
+    <string name="blood_group_hint">रक्त समूह</string>
+    <string name="save_profile">सहेजें</string>
+    <string name="enter_first_name">पहला नाम दर्ज करें</string>
+    <string name="enter_last_name">अंतिम नाम दर्ज करें</string>
+    <string name="enter_phone">फोन नंबर दर्ज करें</string>
+    <string name="enter_age">आयु चुनें</string>
+    <string name="enter_blood_group">रक्त समूह चुनें</string>
+
+    <string name="gender">लिंग</string>
+
+    <string name="analysis_result">विश्लेषण परिणाम</string>
+    <string name="you_are_fine">आप ठीक हैं!</string>
+    <string name="no_disease">कोई रोग नहीं पाया गया</string>
+    <string name="no_symptoms">कोई लक्षण नहीं</string>
+    <string name="suspicion_rate">संदेह दर: %1$s</string>
+    <string name="symptoms">लक्षण: %1$s</string>
+    <string name="learn_more">और जानें</string>
+    <string name="try_again">फिर से कोशिश करें</string>
+
+    <string name="about_disease">रोग के बारे में</string>
+    <string name="unknown_disease_details">इस स्थिति के लिए कोई विवरण उपलब्ध नहीं है। कृपया त्वचा विशेषज्ञ से परामर्श करें।</string>
+    <string name="melanoma_details">मेलेनोमा एक प्रकार का त्वचा कैंसर है जो मेलेनोसाइट्स में शुरू होता है, जो त्वचा के रंगद्रव्य को नियंत्रित करने वाली कोशिकाएँ हैं।</string>
+    <string name="vascular_lesions_details">संवहनी घाव त्वचा की अपेक्षाकृत सामान्य असामान्यताएँ हैं, जिन्हें अक्सर जन्मचिह्न के रूप में जाना जाता है।</string>
+    <string name="basal_cell_carcinoma_details">बेसल सेल कार्सिनोमा एक प्रकार का त्वचा कैंसर है जो बेसल कोशिकाओं में शुरू होता है, जो मृत कोशिकाओं को बदलने के लिए नई त्वचा कोशिकाएँ उत्पन्न करती हैं।</string>
+    <string name="pigmented_keratosis_details">पिगमेंटेड केराटोसिस एक गैर-कैंसरयुक्त त्वचा वृद्धि है जो बाहरी त्वचा परत में केराटिनोसाइट्स से उत्पन्न होती है, जो अक्सर उम्र के साथ लीवर स्पॉट के रूप में दिखाई देती है।</string>
+    <string name="benign_keratosis_details">सौम्य केराटोसिस एक गैर-कैंसरयुक्त त्वचा वृद्धि है जो केराटिनोसाइट्स से उत्पन्न होती है, जो अक्सर उम्र के साथ लीवर स्पॉट के रूप में दिखाई देती है।</string>
+    <string name="eczema_details">एक्जिमा त्वचा की ऊपरी परतों की सूजन का एक रूप है, जो बार-बार सूखापन, चकत्ते, लालिमा, खुजली और स्केलिंग की विशेषता है।</string>
+    <string name="actinic_keratosis_details">एक्टिनिक केराटोसिस सूर्य के संपर्क के कारण होने वाली प्री-कैंसरयुक्त त्वचा वृद्धि है, जो खुरदरी, स्केली पैच के रूप में दिखाई देती है।</string>
+    <string name="dermatofibroma_details">डर्माटोफाइब्रोमा एक सौम्य त्वचा वृद्धि है, जो अक्सर पैरों पर छोटे, ठोस उभार के रूप में दिखाई देती है।</string>
+
+
+    <string name="female">महिला</string>
+    <string name="male">पुरुष</string>
+    <string name="back">वापस</string>
+    <string name="view_doctors">डॉक्टर देखें</string>
+    <string name="view_treatments">उपचार देखें</string>
+    <string name="find_dermatologist">त्वचा विशेषज्ञ खोजें</string>
+
+    <string name="skin_issue">त्वचा की समस्या?</string>
+    <string name="analyze_instructions">अपनी त्वचा की स्थिति का विश्लेषण करने के लिए एक छवि कैप्चर करें या अपलोड करें।</string>
+    <string name="capture_image">छवि कैप्चर करें</string>
+    <string name="analyze_image">छवि का विश्लेषण करें</string>
+    <string name="no_name">कोई नाम नहीं</string>
+    <string name="sign_out">साइन आउट</string>
+
+    <string name="upload_image">छवि अपलोड करें</string>
+
+
+    <string name="loading">लोड हो रहा है</string>
+    <string name="analyzing_image">छवि का विश्लेषण हो रहा है</string>
+    <string name="dermatologists">ચર્મરોગ નિષ્ણાત</string>
+    <string name="specialty_dermatology">ચર્મવિજ્ઞાન</string>
+    <string name="specialty_cosmetic">કોસ્મેટિક ચર્મવિજ્ઞાન</string>
+    <string name="specialty_specialist">નિષ્ણાત</string>
+    <string name="availability_8am_9pm">સવારે 8 - રાત્રે 9</string>
+    <string name="availability_5pm_3am">સાંજે 5 - સવારે 3</string>
+    <string name="availability_3pm_12am">બપોરે 3 - મધ્યરાત</string>
+    <string name="available_now">હવે ઉપલબ્ધ</string>
+    <string name="not_available">ઉપલબ્ધ નથી</string>
+
+    <string name="treatment_options">उपचार विकल्प</string>
+    <string name="medicine_antifungal_cream">एंटीफंगल क्रीम</string>
+    <string name="medicine_antifungal_details">फंगल के लिए दिन में दो बार लागू करें।</string>
+    <string name="medicine_steroid_cream">स्टेरॉयड क्रीम</string>
+    <string name="medicine_steroid_details">सूजन के लिए उपयोग करें, डॉक्टर से परामर्श करें।</string>
+    <string name="medicine_antihistamine">एंटीहिस्टामाइन</string>
+    <string name="medicine_antihistamine_details">एलर्जी के लिए रोजाना लें।</string>
+    <!--from package place -->
+    <string name="nearby_dermatologists">नजदीकी त्वचा विशेषज्ञ</string>
+    <string name="open_now">अब खुला</string>
+    <string name="closed">बंद</string>
+    <string name="submit_location">स्थान अनुमति आवश्यक</string>
+
+
+    <string name="medicine_1_name">हाइड्रोकोर्टिसोन क्रीम</string>
+    <string name="medicine_1_details">हल्के एक्जिमा के इलाज और सूजन कम करने के लिए उपयोग किया जाता है।</string>
+    <string name="medicine_2_name">क्लिंडामाइसिन जेल</string>
+    <string name="medicine_2_details">मुंहासे और जीवाणु संक्रमण के लिए एंटीबायोटिक।</string>
+
+    <string name="gender_help_text">यह जानकारी हमें आपके अनुभव को वैयक्तिकृत करने में मदद करती है।</string>
+    <string name="continue_text">जारी रखें</string>
+    <string name="view">देखें</string>
+    <string name="filter">फ़िल्टर करें</string>
+    <string name="sort">क्रमबद्ध करें</string>
+    <string name="enter_valid_phone">कृपया एक वैध 10-अंकों का फोन नंबर दर्ज करें</string>
+    <string name="profile_saved">प्रोफ़ाइल सफलतापूर्वक सहेजी गई</string>
+    <string name="create_profile">अपनी प्रोफ़ाइल बनाएं</string>
+    <string name="profile_subtitle">आरंभ करने के लिए अपने व्यक्तिगत विवरण जोड़ें</string>
+    <string name="personal_information">व्यक्तिगत जानकारी</string>
+    <string name="profile_picture">प्रोफ़ाइल चित्र</string>
+    <string name="select_gender_title">अपना लिंग चुनें</string>
+    <string name="gender_selection_subtitle">अपने अनुभव को वैयक्तिकृत करने के लिए कृपया अपना लिंग चुनें</string>
+    <string name="analysis_subtitle">कृपया प्रतीक्षा करें जब तक हम आपकी छवि का विश्लेषण करते हैं</string>
+    <string name="processing_image">छवि संसाधित हो रही है</string>
+    <string name="ai_analysis">एआई विश्लेषण चल रहा है</string>
+    <string name="generating_results">परिणाम उत्पन्न हो रहे हैं</string>
+    <string name="analysis_disclaimer">परिणाम केवल सूचनात्मक उद्देश्यों के लिए हैं। चिकित्सकीय सलाह के लिए त्वचा विशेषज्ञ से सलाह लें।</string>
+    <string name="recent_analysis">हालिया विश्लेषण</string>
+    <string name="no_recent_analysis">कोई हालिया विश्लेषण उपलब्ध नहीं है</string>
+    <string name="last_analysis_date">अंतिम विश्लेषण: कोई नहीं</string>
+    <string name="skin_analysis_icon">त्वचा विश्लेषण आइकन</string>
+    <string name="image_preview">छवि पूर्वावलोकन</string>
+    <string name="skin_image_preview">त्वचा छवि पूर्वावलोकन</string>
+    <string name="no_image_selected">कोई छवि नहीं चुनी गई</string>
+    <string name="image_guidelines">सटीक विश्लेषण के लिए सुनिश्चित करें कि छवि स्पष्ट और अच्छी रोशनी में है।</string>
+    <string name="choose_action">एक क्रिया चुनें</string>
+    <string name="photography_tips">फोटोग्राफी युक्तियाँ</string>
+    <string name="tip_good_lighting">तेज, प्राकृतिक रोशनी का प्रयोग करें</string>
+    <string name="tip_clear_focus">सुनिश्चित करें कि छवि स्पष्ट फोकस में है</string>
+    <string name="tip_close_up">प्रभावित क्षेत्र का क्लोज-अप लें</string>
+    <string name="find_expert_care">अपनी त्वचा के लिए विशेषज्ञ देखभाल खोजें</string>
+    <string name="search_doctors_hint">डॉक्टर खोजें</string>
+    <string name="search_doctors">डॉक्टर खोजें</string>
+    <string name="all_doctors">सभी</string>
+    <string name="nearby">पास के</string>
+    <string name="top_rated">शीर्ष रेटेड</string>
+    <string name="available_doctors">उपलब्ध डॉक्टर</string>
+    <string name="doctors_icon">डॉक्टर आइकन</string>
+    <string name="sort_doctors">डॉक्टरों को क्रमबद्ध करें</string>
+    <string name="available_today">आज उपलब्ध</string>
+    <string name="experienced">अनुभवी</string>
+    <string name="find_specialists_subtitle">यहां विशेषज्ञ खोजें</string>
+    <string name="doctors_found">डॉक्टर मिले</string>
+    <string name="recommended_doctors">अनुशंसित डॉक्टर</string>
+    <string name="book_consultation">परामर्श बुक करें</string>
+    <string name="treatment_icon">उपचार आइकन</string>
+    <string name="recommended_treatments_subtitle">अपनी त्वचा की स्थिति के लिए अनुशंसित उपचारों का अन्वेषण करें</string>
+    <string name="treatment_categories">उपचार श्रेणियां</string>
+    <string name="all_treatments">सभी</string>
+    <string name="oral_medication">मौखिक दवा</string>
+    <string name="natural_remedies">प्राकृतिक उपचार</string>
+    <string name="procedures">प्रक्रियाएं</string>
+    <string name="treatment_disclaimer">कोई भी उपचार शुरू करने से पहले हमेशा स्वास्थ्य सेवा पेशेवर से सलाह लें।</string>
+    <string name="recommended_treatments">अनुशंसित उपचार</string>
+    <string name="save_treatments">उपचार सहेजें</string>
+    <string name="medicine_natural_oil">एलोवेरा तेल</string>
+    <string name="medicine_natural_details">त्वचा को शांत और हाइड्रेट करने के लिए प्राकृतिक तेल।</string>
+    <string name="medicine_laser_therapy">लेजर थेरेपी</string>
+    <string name="medicine_laser_details">त्वचा की स्थितियों के लिए व्यावसायिक लेजर उपचार।</string>
+    <string name="topical">सामयिक</string>
+    <string name="quick_actions">त्वरित क्रियाएं</string>
+    <string name="find_pharmacy">फार्मेसी खोजें</string>
+    <string name="emergency">आपातकाल</string>
+
+
+</resources>

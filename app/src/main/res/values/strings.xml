@@ -1,0 +1,156 @@
+<resources>
+    <string name="app_name" translatable="false">Derma Mitra</string>
+
+    <string name="username_hint_en">Enter username</string>
+    <string name="username_hint_hi" translatable="false">उपयोगकर्ता नाम दर्ज करें</string>
+    <string name="username_hint_gu" translatable="false">વપેસરનામ દાખલ કરો</string>
+    <string name="username_hint_ur" translatable="false">صارف نام درج کریں</string>
+    <string name="enter_username">Please enter a username</string>
+
+    <string name="english">English</string>
+    <string name="hindi">हिन्दी</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="urdu">اردو</string>
+    <string name="gender_help_text">This information helps us personalize your experience.</string>
+
+    <string name="next">Next</string>
+    <string name="save_profile">Save Profile</string>
+    <string name="back">Back</string>
+    <string name="continue_text">Continue</string>
+    <string name="view">View</string>
+    <string name="filter">Filter</string>
+    <string name="sort">Sort</string>
+    <string name="enter_valid_phone">Please enter a valid 10-digit phone number</string>
+    <string name="profile_saved">Profile saved successfully</string>
+    <string name="first_name_hint">First Name</string>
+    <string name="last_name_hint">Last Name</string>
+    <string name="phone_hint">Phone Number</string>
+    <string name="age_hint">Age</string>
+    <string name="blood_group_hint">Blood Group</string>
+    <string name="enter_first_name">Please enter your first name</string>
+    <string name="enter_last_name">Please enter your last name</string>
+    <string name="enter_phone">Please enter your phone number</string>
+    <string name="enter_age">Select age</string>
+    <string name="enter_blood_group">Please select your blood group</string>
+    <string name="create_profile">Create Your Profile</string>
+    <string name="profile_subtitle">Add your personal details to get started</string>
+    <string name="personal_information">Personal Information</string>
+    <string name="profile_picture">Profile picture</string>
+
+    <string name="gender">Gender</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="select_gender_title">Select Your Gender</string>
+    <string name="gender_selection_subtitle">Please choose your gender to personalize your experience</string>
+
+    <string name="analysis_result">Analysis Result</string>
+    <string name="you_are_fine">You are Fine!</string>
+    <string name="no_disease">No Disease Detected</string>
+    <string name="no_symptoms">No Symptoms</string>
+    <string name="suspicion_rate">Suspicion Rate: %1$s</string>
+    <string name="symptoms">Symptoms: %1$s</string>
+    <string name="learn_more">Learn More</string>
+    <string name="try_again">Try Again</string>
+    <string name="analysis_subtitle">Please wait while we analyze your image</string>
+    <string name="processing_image">Processing image</string>
+    <string name="ai_analysis">Running AI analysis</string>
+    <string name="generating_results">Generating results</string>
+    <string name="analysis_disclaimer">Results are for informational purposes only. Consult a dermatologist for medical advice.</string>
+    <string name="recent_analysis">Recent Analysis</string>
+    <string name="no_recent_analysis">No recent analysis available</string>
+    <string name="last_analysis_date">Last analyzed: None</string>
+    <string name="skin_analysis_icon">Skin analysis icon</string>
+
+    <string name="about_disease">About Disease</string>
+    <string name="unknown_disease_details">No details available for this condition. Please consult a dermatologist.</string>
+    <string name="melanoma_details">Melanoma is a type of skin cancer that begins in melanocytes, the cells that control skin pigment.</string>
+    <string name="vascular_lesions_details">Vascular lesions are relatively common skin abnormalities, often known as birthmarks.</string>
+    <string name="basal_cell_carcinoma_details">Basal cell carcinoma is a type of skin cancer that starts in basal cells, which produce new skin cells to replace dead ones.</string>
+    <string name="pigmented_keratosis_details">Pigmented keratosis is a non-cancerous skin growth arising from keratinocytes in the outer skin layer, often appearing as liver spots with age.</string>
+    <string name="benign_keratosis_details">Benign keratosis is a non-cancerous skin growth from keratinocytes, often appearing as liver spots with age.</string>
+    <string name="eczema_details">Eczema is a form of inflammation of the upper skin layers, characterized by recurrent dryness, rash, redness, itching, and scaling.</string>
+    <string name="actinic_keratosis_details">Actinic keratosis is a precancerous skin growth caused by sun exposure, appearing as rough, scaly patches.</string>
+    <string name="dermatofibroma_details">Dermatofibroma is a benign skin growth, often appearing as a small, firm bump, usually on the legs.</string>
+
+    <string name="skin_issue">Skin Issue?</string>
+    <string name="analyze_instructions">Capture or upload an image to analyze your skin condition.</string>
+    <string name="capture_image">Capture Image</string>
+    <string name="analyze_image">Analyze Image</string>
+    <string name="upload_image">Upload Image</string>
+    <string name="loading">Loading</string>
+    <string name="analyzing_image">Analyzing Image</string>
+    <string name="image_preview">Image Preview</string>
+    <string name="skin_image_preview">Skin image preview</string>
+    <string name="no_image_selected">No image selected</string>
+    <string name="image_guidelines">Ensure the image is clear and well-lit for accurate analysis.</string>
+    <string name="choose_action">Choose an Action</string>
+    <string name="photography_tips">Photography Tips</string>
+    <string name="tip_good_lighting">Use bright, natural lighting</string>
+    <string name="tip_clear_focus">Ensure the image is in sharp focus</string>
+    <string name="tip_close_up">Take a close-up of the affected area</string>
+
+    <string name="view_doctors">View Doctors</string>
+    <string name="find_dermatologist">Find Dermatologist</string>
+    <string name="dermatologists">Dermatologists</string>
+    <string name="specialty_dermatology">Dermatology</string>
+    <string name="specialty_cosmetic">Cosmetic Dermatology</string>
+    <string name="specialty_specialist">Specialist</string>
+    <string name="availability_8am_9pm">8 AM - 9 PM</string>
+    <string name="availability_5pm_3am">5 PM - 3 AM</string>
+    <string name="availability_3pm_12am">3 PM - 12 AM</string>
+    <string name="available_now">Available Now</string>
+    <string name="not_available">Not Available</string>
+    <string name="nearby_dermatologists">Nearby Dermatologists</string>
+    <string name="open_now">Open Now</string>
+    <string name="closed">Closed</string>
+    <string name="submit_location">Location permission required</string>
+    <string name="find_expert_care">Find expert care for your skin</string>
+    <string name="search_doctors_hint">Search doctors</string>
+    <string name="search_doctors">Search Doctors</string>
+    <string name="all_doctors">All</string>
+    <string name="nearby">Nearby</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="available_doctors">Available Doctors</string>
+    <string name="doctors_icon">Doctor icon</string>
+    <string name="sort_doctors">Sort doctors</string>
+    <string name="available_today">Available Today</string>
+    <string name="experienced">Experienced</string>
+    <string name="find_specialists_subtitle">Find Specialists here</string>
+    <string name="doctors_found">Doctors found</string>
+    <string name="recommended_doctors">Recommended Doctors</string>
+    <string name="book_consultation">Book Consultation</string>
+
+    <string name="view_treatments">View Treatments</string>
+    <string name="treatment_options">Treatment Options</string>
+    <string name="medicine_antifungal_cream">Antifungal Cream</string>
+    <string name="medicine_antifungal_details">Apply twice daily for fungal infections.</string>
+    <string name="medicine_steroid_cream">Steroid Cream</string>
+    <string name="medicine_steroid_details">Use for inflammation, consult doctor.</string>
+    <string name="medicine_antihistamine">Antihistamine</string>
+    <string name="medicine_antihistamine_details">Take daily for allergic reactions.</string>
+    <string name="medicine_1_name">Hydrocortisone Cream</string>
+    <string name="medicine_1_details">Used to treat mild eczema and reduce inflammation.</string>
+    <string name="medicine_2_name">Clindamycin Gel</string>
+    <string name="medicine_2_details">Antibiotic for acne and bacterial infections.</string>
+    <string name="treatment_icon">Treatment icon</string>
+    <string name="recommended_treatments_subtitle">Explore recommended treatments for your skin condition</string>
+    <string name="treatment_categories">Treatment Categories</string>
+    <string name="all_treatments">All</string>
+    <string name="oral_medication">Oral Medication</string>
+    <string name="natural_remedies">Natural Remedies</string>
+    <string name="procedures">Procedures</string>
+    <string name="treatment_disclaimer">Always consult a healthcare professional before starting any treatment.</string>
+    <string name="recommended_treatments">Recommended Treatments</string>
+    <string name="save_treatments">Save Treatments</string>
+    <string name="medicine_natural_oil">Aloe Vera Oil</string>
+    <string name="medicine_natural_details">Natural oil to soothe and hydrate skin.</string>
+    <string name="medicine_laser_therapy">Laser Therapy</string>
+    <string name="medicine_laser_details">Professional laser treatment for skin conditions.</string>
+    <string name="topical">Topical</string>
+
+    <string name="no_name">No Name</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="quick_actions">Quick Actions</string>
+    <string name="find_pharmacy">Find Pharmacy</string>
+    <string name="emergency">Emergency</string>
+</resources>

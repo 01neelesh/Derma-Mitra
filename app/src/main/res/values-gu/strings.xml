@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="username_hint_en">વપેસરનામ દાખલ કરો</string>
+    <string name="english">અંગ્રેજી</string>
+    <string name="hindi">હિન્દી</string>
+    <string name="gujarati">ગુજરાતી</string>
+    <string name="urdu">ઉર્દૂ</string>
+    <string name="next">આગળ</string>
+    <string name="enter_username">કૃપા કરીને વપેસરનામ દાખલ કરો</string>
+
+    <!--    userInfo-->
+    <string name="first_name_hint">પ્રથમ નામ</string>
+    <string name="last_name_hint">છેલ્લું નામ</string>
+    <string name="phone_hint">ફોન નંબર</string>
+    <string name="age_hint">ઉંમર</string>
+    <string name="blood_group_hint">બ્લડ ગ્રુપ</string>
+    <string name="save_profile">સાચવો</string>
+    <string name="enter_first_name">પ્રથમ નામ દાખલ કરો</string>
+    <string name="enter_last_name">છેલ્લું નામ દાખલ કરો</string>
+    <string name="enter_phone">ફોન નંબર દાખલ કરો</string>
+    <string name="enter_age">ઉંમર પસંદ કરો</string>
+    <string name="enter_blood_group">બ્લડ ગ્રુપ પસંદ કરો</string>
+
+    <string name="gender">જાતિ</string>
+
+    <string name="analysis_result">વિશ્લેષણ પરિણામ</string>
+    <string name="you_are_fine">તમે ઠીક છો!</string>
+    <string name="no_disease">કોઈ રોગ મળ્યો નથી</string>
+    <string name="no_symptoms">કોઈ લક્ષણો નથી</string>
+    <string name="suspicion_rate">શંકાનો દર: %1$s</string>
+    <string name="symptoms">લક્ષણો: %1$s</string>
+    <string name="learn_more">વધુ જાણો</string>
+    <string name="try_again">ફરીથી પ્રયાસ કરો</string>
+
+    <string name="about_disease">રોગ વિશે</string>
+    <string name="unknown_disease_details">આ સ્થિતિ માટે કોઈ વિગતો ઉપલબ્ધ નથી. કૃપા કરીને ચર્મરોગ નિષ્ણાતની સલાહ લો.</string>
+    <string name="melanoma_details">મેલાનોમા એ ચર્મના કેન્સરનો એક પ્રકાર છે જે મેલાનોસાઇટ્સમાં શરૂ થાય છે, જે ચર્મના રંગદ્રવ્યને નિયંત્રિત કરતી કોશિકાઓ છે.</string>
+    <string name="vascular_lesions_details">વેસ્ક્યુલર લેસન્સ એ ચર્મની પ્રમાણમાં સામાન્ય અસામાન્યતાઓ છે, જેને ઘણીવાર જન્મચિહ્નો તરીકે ઓળખવામાં આવે છે.</string>
+    <string name="basal_cell_carcinoma_details">બેસલ સેલ કાર્સિનોમા એ ચર્મના કેન્સરનો એક પ્રકાર છે જે બેસલ કોશિકાઓમાં શરૂ થાય છે, જે મૃત કોશિકાઓને બદલવા માટે નવી ચર્મ કોશિકાઓ ઉત્પન્ન કરે છે.</string>
+    <string name="pigmented_keratosis_details">પિગમેન્ટેડ કેરાટોસિસ એ બિન-કેન્સરયુક્ત ચર્મ વૃદ્ધિ છે જે બાહ્ય ચર્મ સ્તરમાં કેરાટિનોસાઇટ્સમાંથી ઉદ્ભવે છે, જે ઘણીવાર ઉંમર સાથે લીવર સ્પોટ તરીકે દેખાય છે.</string>
+    <string name="benign_keratosis_details">સૌમ્ય કેરાટોસિસ એ બિન-કેન્સરયુક્ત ચર્મ વૃદ્ધિ છે જે કેરાટિનોસાઇટ્સમાંથી ઉદ્ભવે છે, જે ઘણીવાર ઉંમર સાથે લીવર સ્પોટ તરીકે દેખાય છે.</string>
+    <string name="eczema_details">એક્ઝિમા એ ચર્મની ઉપરની સ્તરોની સોજાનું એક સ્વરૂપ છે, જે વારંવાર શુષ્કતા, ફોલ્લીઓ, લાલાશ, ખંજવાળ અને સ્કેલિંગ દ્વારા વર્ગીકૃત થાય છે.</string>
+    <string name="actinic_keratosis_details">એક્ટિનિક કેરાટોસિસ એ સૂર્યના સંપર્કને કારણે થતી પૂર્વ-કેન્સરયુક્ત ચર્મ વૃદ્ધિ છે, જે ખરખરા, સ્કેલી પેચ તરીકે દેખાય.</string>
+    <string name="dermatofibroma_details">ડર્મેટોફાઇબ્રોમા એ એક સૌમ્ય ચર્મ વૃદ્ધિ છે, જે ઘણીવાર પગો પર નાના, નક્કર ઉભાર તરીકે દેખાય.</string>
+
+
+    <string name="female">સ્ત્રી</string>
+    <string name="male">પુરુષ</string>
+    <string name="back">પાછળ</string>
+    <string name="view_doctors">ડોકટરો જુઓ</string>
+    <string name="view_treatments">સારવાર જુઓ</string>
+    <string name="find_dermatologist">ચામડીના નિષ્ણાત શોધો</string>
+
+    <string name="skin_issue">ચર્મની સમસ્યા?</string>
+    <string name="analyze_instructions">તમારી ચર્મની સ્થિતિનું વિશ્લેષણ કરવા માટે એક છબી કેપ્ચર કરો અથવા અપલોડ કરો.</string>
+    <string name="capture_image">છબી કેપ્ચર કરો</string>
+    <string name="analyze_image">છબીનું વિશ્લેષણ કરો</string>
+    <string name="no_name">નામ નથી</string>
+    <string name="sign_out">સાઇન આઉટ</string>
+    <string name="upload_image">છબી અપલોડ કરો</string>
+    <string name="loading">લોડ થઈ રહ્યું છે</string>
+    <string name="analyzing_image">છબીનું વિશ્લેષણ થઈ રહ્યું છે</string>
+
+    <string name="dermatologists">ચર્મરોગ નિષ્ણાત</string>
+    <string name="specialty_dermatology">ચર્મવિજ્ઞાન</string>
+    <string name="specialty_cosmetic">કોસ્મેટિક ચર્મવિજ્ઞાન</string>
+    <string name="specialty_specialist">નિષ્ણાત</string>
+    <string name="availability_8am_9pm">સવારે 8 - રાત્રે 9</string>
+    <string name="availability_5pm_3am">સાંજે 5 - સવારે 3</string>
+    <string name="availability_3pm_12am">બપોરે 3 - મધ્યરાત</string>
+    <string name="available_now">હવે ઉપલબ્ધ</string>
+    <string name="not_available">ઉપલબ્ધ નથી</string>
+    <string name="treatment_options">સારવાર વિકલ્પો</string>
+    <string name="medicine_antifungal_cream">એન્ટિફંગલ</string>
+    <string name="medicine_antifungal_details">ફૂગની ચેપ માટે દિવસમાં બે વાર.</string>
+    <string name="medicine_steroid_cream">સ્ટેરોઇડ</string>
+    <string name="medicine_steroid_details">સોજા માટે વાપરો, ડૉક્ટરની સલાહ લો.</string>
+    <string name="medicine_antihistamine">એન્ટિહિસ્ટામાઇન</string>
+    <string name="medicine_antihistamine_details">એલર્જી માટે રોજ લો.</string>
+    <string name="nearby_dermatologists">નજીકના ચર્મરોગ નિષ્ણાત</string>
+    <string name="open_now">હવે ખુલ્લું</string>
+    <string name="closed">બંધ</string>
+    <string name="submit_location">સ્થાન પરવાનગી જરૂરી</string>
+    <string name="medicine_1_name">હાઇડ્રોકોર્ટિસોન ક્રીમ</string>
+    <string name="medicine_1_details">હળવા ખરજવા (એકઝીમા) ની સારવાર અને સોજો ઘટાડવા માટે વપરાય છે.</string>
+    <string name="medicine_2_name">ક્લિન્ડામાયસિન જેલ</string>
+    <string name="medicine_2_details">ખીલ અને બેક્ટેરિયલ ઇન્ફેક્શન માટે એન્ટિબાયોટિક.</string>
+
+
+    <string name="gender_help_text">આ માહિતી અમને તમારા અનુભવને વ્યક્તિગત કરવામાં મદદ કરે છે.</string>
+    <string name="continue_text">ચાલુ રાખો</string>
+    <string name="view">જુઓ</string>
+    <string name="filter">ફિલ્ટર કરો</string>
+    <string name="sort">સૉર્ટ કરો</string>
+    <string name="enter_valid_phone">કૃપા કરીને માન્ય 10-અંકનો ફોન નંબર દાખલ કરો</string>
+    <string name="profile_saved">પ્રોફાઇલ સફળતાપૂર્વક સાચવવામાં આવી</string>
+    <string name="create_profile">તમારી પ્રોફાઇલ બનાવો</string>
+    <string name="profile_subtitle">શરૂ કરવા માટે તમારી વ્યક્તિગત વિગતો ઉમેરો</string>
+    <string name="personal_information">વ્યક્તિગત માહિતી</string>
+    <string name="profile_picture">પ્રોફાઇલ ચિત્ર</string>
+    <string name="select_gender_title">તમારી જાતિ પસંદ કરો</string>
+    <string name="gender_selection_subtitle">તમારા અનુભવને વ્યક્તિગત કરવા માટે કૃપા કરીને તમારી જાતિ પસંદ કરો</string>
+    <string name="analysis_subtitle">કૃપા કરીને રાહ જુઓ જ્યારે અમે તમારી છબીનું વિશ્લેષણ કરીએ છીએ</string>
+    <string name="processing_image">છબી પર પ્રક્રિયા થઈ રહી છે</string>
+    <string name="ai_analysis">AI વિશ્લેષણ ચાલી રહ્યું છે</string>
+    <string name="generating_results">પરિણામો જનરેટ થઈ રહ્યા છે</string>
+    <string name="analysis_disclaimer">પરિણામો ફક્ત માહિતીના હેતુઓ માટે છે. તબીબી સલાહ માટે ત્વચારોગ વિજ્ઞાનીનો સંપર્ક કરો.</string>
+    <string name="recent_analysis">તાજેતરનું વિશ્લેષણ</string>
+    <string name="no_recent_analysis">કોઈ તાજેતરનું વિશ્લેષણ ઉપલબ્ધ નથી</string>
+    <string name="last_analysis_date">છેલ્લું વિશ્લેષણ: કોઈ નહીં</string>
+    <string name="skin_analysis_icon">ત્વચા વિશ્લેષણ આયકન</string>
+    <string name="image_preview">છબી પૂર્વાવલોકન</string>
+    <string name="skin_image_preview">ત્વચા છબી પૂર્વાવલોકન</string>
+    <string name="no_image_selected">કોઈ છબી પસંદ નથી</string>
+    <string name="image_guidelines">ચોક્કસ વિશ્લેષણ માટે છબી સ્પષ્ટ અને સારી રીતે પ્રકાશિત છે તેની ખાતરી કરો.</string>
+    <string name="choose_action">એક ક્રિયા પસંદ કરો</string>
+    <string name="photography_tips">ફોટોગ્રાફી ટિપ્સ</string>
+    <string name="tip_good_lighting">તેજસ્વી, કુદરતી પ્રકાશનો ઉપયોગ કરો</string>
+    <string name="tip_clear_focus">ખાતરી કરો કે છબી સ્પષ્ટ ફોકસમાં છે</string>
+    <string name="tip_close_up">અસરગ્રસ્ત વિસ્તારનો ક્લોઝ-અપ લો</string>
+    <string name="find_expert_care">તમારી ત્વચા માટે નિષ્ણાત સંભાળ શોધો</string>
+    <string name="search_doctors_hint">ડોકટરો શોધો</string>
+    <string name="search_doctors">ડોકટરો શોધો</string>
+    <string name="all_doctors">બધા</string>
+    <string name="nearby">નજીકના</string>
+    <string name="top_rated">ટોચના રેટેડ</string>
+    <string name="available_doctors">ઉપલબ્ધ ડોકટરો</string>
+    <string name="doctors_icon">ડોક્ટર આયકન</string>
+    <string name="sort_doctors">ડોકટરોને સૉર્ટ કરો</string>
+    <string name="available_today">આજે ઉપલબ્ધ</string>
+    <string name="experienced">અનુભવી</string>
+    <string name="find_specialists_subtitle">અહીં નિષ્ણાતો શોધો</string>
+    <string name="doctors_found">ડોકટરો મળ્યા</string>
+    <string name="recommended_doctors">ભલામણ કરેલ ડોકટરો</string>
+    <string name="book_consultation">પરામર્શ બુક કરો</string>
+    <string name="treatment_icon">સારવાર આયકન</string>
+    <string name="recommended_treatments_subtitle">તમારી ત્વચાની સ્થિતિ માટે ભલામણ કરેલ સારવાર શોધો</string>
+    <string name="treatment_categories">સારવાર શ્રેણીઓ</string>
+    <string name="all_treatments">બધા</string>
+    <string name="oral_medication">મૌખિક દવા</string>
+    <string name="natural_remedies">કુદરતી ઉપચારો</string>
+    <string name="procedures">પ્રક્રિયાઓ</string>
+    <string name="treatment_disclaimer">કોઈપણ સારવાર શરૂ કરતા પહેલા હંમેશા આરોગ્ય સંભાળ વ્યવસાયીની સલાહ લો.</string>
+    <string name="recommended_treatments">ભલામણ કરેલ સારવાર</string>
+    <string name="save_treatments">સારવાર સાચવો</string>
+    <string name="medicine_natural_oil">કુંવારપાઠાનું તેલ</string>
+    <string name="medicine_natural_details">ત્વચાને શાંત કરવા અને હાઇડ્રેટ કરવા માટે કુદરતી તેલ.</string>
+    <string name="medicine_laser_therapy">લેસર થેરાપી</string>
+    <string name="medicine_laser_details">ત્વચાની સ્થિતિઓ માટે વ્યાવસાયિક લેસર સારવાર.</string>
+    <string name="topical">સ્થાનિક</string>
+    <string name="quick_actions">ઝડપી ક્રિયાઓ</string>
+    <string name="find_pharmacy">ફાર્મસી શોધો</string>
+    <string name="emergency">કટોકટી</string>
+
+</resources>

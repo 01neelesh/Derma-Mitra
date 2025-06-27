@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="username_hint_en">صارف نام درج کریں</string>
+    <string name="english">انگریزی</string>
+    <string name="hindi">ہندی</string>
+    <string name="gujarati">گجراتی</string>
+    <string name="urdu">اردو</string>
+    <string name="next">اگلا</string>
+    <string name="enter_username">براہ کرم صارف نام درج کریں</string>
+
+    <!--    user Info-->
+    <string name="first_name_hint">پہلا نام</string>
+    <string name="last_name_hint">آخری نام</string>
+    <string name="phone_hint">فون نمبر</string>
+    <string name="age_hint">عمر</string>
+    <string name="blood_group_hint">بلڈ گروپ</string>
+    <string name="save_profile">محفوظ کریں</string>
+    <string name="enter_first_name">پہلا نام درج کریں</string>
+    <string name="enter_last_name">آخری نام درج کریں</string>
+    <string name="enter_phone">فون نمبر درج کریں</string>
+    <string name="enter_age">عمر منتخب کریں</string>
+    <string name="enter_blood_group">بلڈ گروپ منتخب کریں</string>
+
+    <string name="gender">جنس</string>
+
+    <string name="analysis_result">تجزیہ کا نتیجہ</string>
+    <string name="you_are_fine">آپ ٹھیک ہیں!</string>
+    <string name="no_disease">کوئی بیماری نہیں پائی گئی</string>
+    <string name="no_symptoms">کوئی علامات نہیں</string>
+    <string name="suspicion_rate">شک کی شرح: %1$s</string>
+    <string name="symptoms">علامات: %1$s</string>
+    <string name="learn_more">مزید جانیں</string>
+    <string name="try_again">دوبارہ کوشش کریں</string>
+
+    <string name="about_disease">بیماری کے بارے میں</string>
+    <string name="unknown_disease_details">اس حالت کے لیے کوئی تفصیلات میسر نہیں ہیں۔ براہ کرم جلد کے ماہر سے رجوع کریں۔</string>
+    <string name="melanoma_details">میلانوما جلد کے کینسر کی ایک قسم ہے جو میلانوسائٹس سے شروع ہوتی ہے، جو کہ جلد کے رنگ کو کنٹرول کرنے والی خلیات ہیں۔</string>
+    <string name="vascular_lesions_details">عسسوی عوارض جلد کی نسبتاً عام غیر معمولیات ہیں، جنہیں اکثر پیدائشی نشانات کہا جاتا۔</string>
+    <string name="basal_cell_carcinoma_details">بیسل سیل کارسنوما جلد کے کینسر کی ایک قسم ہے جو بیسل خلیات سے شروع ہوتی ہے، جو مردہ خلیات کو تبدیل کرنے کے لیے نئے جلد کے خلیات بناتے ہیں۔</string>
+    <string name="pigmented_keratosis_details">رنگدار کیراٹوسس جلد کی غیر کینسری افزائش ہے جو بیرونی جلد کی تہہ میں کیراٹینوسائٹس سے نکلتی ہے، جو اکثر عمر کے ساتھ جگر کے دھبوں کے طور پر ظاہر ہوتی ہے۔</string>
+    <string name="benign_keratosis_details">بے ضرر کیراٹوسس جلد کی غیر کینسری افزائش ہے جو کیراٹینوسائٹس سے نکلتی ہے، جو اکثر عمر کے ساتھ جگر کے دھبوں کے طور پر ظاہر ہوتی ہے۔</string>
+    <string name="eczema_details">ایگزیما جلد کی بالائی تہوں کی سوزش کی ایک شکل ہے، جو بار بار خشکی، دھبوں، سرخی، خارش اور کھجلی کی خصوصیت رکھتی ہے۔</string>
+    <string name="actinic_keratosis_details">ایکٹنک کیراٹوسس سورج کی نمائش کی وجہ سے ہونے والی پری کینسر کی جلد کی افزائش ہے، جو کھردری، کھلی ہوئی دھبوں کے طور پر ظاہر ہوتی ہے۔</string>
+    <string name="dermatofibroma_details">ڈرمیٹوفائبروما ایک بے ضرر جلد کی افزائش ہے، جو اکثر ٹانگوں پر چھوٹے، مضبوط ابھار کے طور پر ظاہر ہوتی ہے۔</string>
+
+
+    <string name="female">عورت</string>
+    <string name="male">مرد</string>
+    <string name="back">واپس</string>
+    <string name="view_doctors">ڈاکٹر دیکھیں</string>
+    <string name="view_treatments">علاج دیکھیں</string>
+    <string name="find_dermatologist">ماہرِ امراضِ جلد تلاش کریں</string>
+
+    <string name="skin_issue">جلد کا مسئلہ؟</string>
+    <string name="analyze_instructions">اپنی جلد کی حالت کا تجزیہ کرنے کے لیے ایک تصویر کیپچر کریں یا اپ لوڈ کریں۔</string>
+    <string name="capture_image">تصویر کیپچر کریں</string>
+    <string name="analyze_image">تصویر کا تجزیہ کریں</string>
+    <string name="no_name">کوئی نام نہیں</string>
+    <string name="sign_out">سائن آؤٹ</string>
+    <string name="upload_image">تصویر اپ لوڈ کریں</string>
+    <string name="loading">لوڈ ہو رہا ہے</string>
+    <string name="analyzing_image">تصویر کا تجزیہ ہو رہا ہے</string>
+    <string name="dermatologists">جلدی ماہرین</string>
+    <string name="specialty_dermatology">جلدیات</string>
+    <string name="specialty_cosmetic">کاسمیٹک جلدیات</string>
+    <string name="specialty_specialist">ماہر</string>
+    <string name="availability_8am_9pm">صبح 8 - رات 9</string>
+    <string name="availability_5pm_3am">شام 5 - صبح 3</string>
+    <string name="availability_3pm_12am">دوپہر 3 - آدھی رات</string>
+    <string name="available_now">اب دستیاب</string>
+    <string name="not_available">دستیاب نہیں</string>
+    <string name="treatment_options">علاج کے اختیارات</string>
+    <string name="medicine_antifungal_cream">اینٹی فنگل کریم</string>
+    <string name="medicine_antifungal_details">فنگل انفیکشن کے لئے دن میں دو بار لگائیں۔</string>
+    <string name="medicine_steroid_cream">سٹیرایڈ کریم</string>
+    <string name="medicine_steroid_details">سوزش کے لئے استعمال کریں، ڈاکٹر سے مشورہ کریں۔</string>
+    <string name="medicine_antihistamine">اینٹی ہسٹامائن</string>
+    <string name="medicine_antihistamine_details">الرجی کے لئے روزانہ لیں۔</string>
+
+    <!--    from place -->
+    <string name="nearby_dermatologists">قریبی جلدی ماہرین</string>
+    <string name="open_now">اب کھلا</string>
+    <string name="closed">بند</string>
+    <string name="submit_location">مقام کی اجازت درکار</string>
+
+    <string name="medicine_1_name">ہائیڈروکارٹیسون کریم</string>
+    <string name="medicine_1_details">ہلکے ایگزیما کا علاج کرنے اور سوزش کو کم کرنے کے لیے استعمال کیا جاتا ہے۔</string>
+    <string name="medicine_2_name">کلینڈامائسن جیل</string>
+    <string name="medicine_2_details">مہاسوں اور بیکٹیریل انفیکشن کے لیے اینٹی بائیوٹک۔</string>
+
+
+    <string name="gender_help_text">یہ معلومات ہمیں آپ کے تجربے کو ذاتی بنانے میں مدد کرتی ہے۔</string>
+    <string name="continue_text">جاری رکھیں</string>
+    <string name="view">دیکھیں</string>
+    <string name="filter">فلٹر کریں</string>
+    <string name="sort">ترتیب دیں</string>
+    <string name="enter_valid_phone">براہ کرم ایک درست 10 ہندسوں کا فون نمبر درج کریں</string>
+    <string name="profile_saved">پروفائل کامیابی سے محفوظ ہو گئی</string>
+    <string name="create_profile">اپنی پروفائل بنائیں</string>
+    <string name="profile_subtitle">شروع کرنے کے لیے اپنی ذاتی تفصیلات شامل کریں</string>
+    <string name="personal_information">ذاتی معلومات</string>
+    <string name="profile_picture">پروفائل تصویر</string>
+    <string name="select_gender_title">اپنی جنس منتخب کریں</string>
+    <string name="gender_selection_subtitle">اپنے تجربے کو ذاتی بنانے کے لیے براہ کرم اپنی جنس کا انتخاب کریں</string>
+    <string name="analysis_subtitle">براہ کرم انتظار کریں جب تک ہم آپ کی تصویر کا تجزیہ کرتے ہیں</string>
+    <string name="processing_image">تصویر پر کارروائی ہو رہی ہے</string>
+    <string name="ai_analysis">AI تجزیہ چل رہا ہے</string>
+    <string name="generating_results">نتائج تیار ہو رہے ہیں</string>
+    <string name="analysis_disclaimer">نتائج صرف معلوماتی مقاصد کے لیے ہیں۔ طبی مشورے کے لیے ڈرمیٹولوجسٹ سے رجوع کریں۔</string>
+    <string name="recent_analysis">حالیہ تجزیہ</string>
+    <string name="no_recent_analysis">کوئی حالیہ تجزیہ دستیاب نہیں ہے</string>
+    <string name="last_analysis_date">آخری تجزیہ: کوئی نہیں</string>
+    <string name="skin_analysis_icon">جلد کے تجزیے کا آئیکن</string>
+    <string name="image_preview">تصویر کا پیش منظر</string>
+    <string name="skin_image_preview">جلد کی تصویر کا پیش منظر</string>
+    <string name="no_image_selected">کوئی تصویر منتخب نہیں کی گئی</string>
+    <string name="image_guidelines">درست تجزیہ کے لیے یقینی بنائیں کہ تصویر صاف اور اچھی روشنی میں ہے۔</string>
+    <string name="choose_action">ایک عمل کا انتخاب کریں</string>
+    <string name="photography_tips">فوٹوگرافی کی تجاویز</string>
+    <string name="tip_good_lighting">روشن، قدرتی روشنی کا استعمال کریں</string>
+    <string name="tip_clear_focus">یقینی بنائیں کہ تصویر تیز فوکس میں ہے</string>
+    <string name="tip_close_up">متاثرہ علاقے کا کلوز اپ لیں</string>
+    <string name="find_expert_care">اپنی جلد کے لیے ماہر دیکھ بھال تلاش کریں</string>
+    <string name="search_doctors_hint">ڈاکٹر تلاش کریں</string>
+    <string name="search_doctors">ڈاکٹر تلاش کریں</string>
+    <string name="all_doctors">تمام</string>
+    <string name="nearby">قریب</string>
+    <string name="top_rated">اعلیٰ درجہ بندی</string>
+    <string name="available_doctors">دستیاب ڈاکٹر</string>
+    <string name="doctors_icon">ڈاکٹر کا آئیکن</string>
+    <string name="sort_doctors">ڈاکٹروں کو ترتیب دیں</string>
+    <string name="available_today">آج دستیاب</string>
+    <string name="experienced">تجربہ کار</string>
+    <string name="find_specialists_subtitle">یہاں ماہرین تلاش کریں</string>
+    <string name="doctors_found">ڈاکٹر مل گئے</string>
+    <string name="recommended_doctors">تجویز کردہ ڈاکٹر</string>
+    <string name="book_consultation">مشورہ بک کریں</string>
+    <string name="treatment_icon">علاج کا آئیکن</string>
+    <string name="recommended_treatments_subtitle">اپنی جلد کی حالت کے لیے تجویز کردہ علاج دریافت کریں</string>
+    <string name="treatment_categories">علاج کے زمرے</string>
+    <string name="all_treatments">تمام</string>
+    <string name="oral_medication">منہ کی دوا</string>
+    <string name="natural_remedies">قدرتی علاج</string>
+    <string name="procedures">طریقہ کار</string>
+    <string name="treatment_disclaimer">کوئی بھی علاج شروع کرنے سے پہلے ہمیشہ صحت کی دیکھ بھال کے پیشہ ور سے مشورہ کریں۔</string>
+    <string name="recommended_treatments">تجویز کردہ علاج</string>
+    <string name="save_treatments">علاج محفوظ کریں</string>
+    <string name="medicine_natural_oil">ایلو ویرا آئل</string>
+    <string name="medicine_natural_details">جلد کو سکون اور ہائیڈریٹ کرنے کے لیے قدرتی تیل۔</string>
+    <string name="medicine_laser_therapy">لیزر تھراپی</string>
+    <string name="medicine_laser_details">جلد کی حالتوں کے لیے پیشہ ورانہ لیزر علاج۔</string>
+    <string name="topical">بیرونی</string>
+    <string name="quick_actions">فوری اعمال</string>
+    <string name="find_pharmacy">فارمیسی تلاش کریں</string>
+    <string name="emergency">ہنگامی حالت</string>
+
+</resources>
