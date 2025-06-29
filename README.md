@@ -83,6 +83,16 @@ cd Derma-Mitra
 
 ## 📸 Snapshots (Description)
 
+- **Splash/Login Screen** ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/username.png?raw=true]
+- ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/splashscreen.png?raw=true]
+- **User Registration** – ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/create%20profile.png?raw=true]
+- **Scan Interface** – ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/homepage.png?raw=true]
+- **Image Analysis** – ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/analysisPage.png?raw=true]
+- **Diagnosis Results** – ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/result%20page.png?raw=true]
+- **App Drawer** – ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/treatment%20options.png?raw=true],
+- ![https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/nearby%20dermatologists.png?raw=true]
+
+---
 
 ## 🛣️ Roadmap: Future Upgrades
 
