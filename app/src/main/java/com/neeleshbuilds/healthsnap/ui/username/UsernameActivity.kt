@@ -8,6 +8,7 @@ import android.os.Looper
 import android.text.TextUtils
 import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
+import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import com.neeleshbuilds.healthsnap.databinding.ActivityUsernameBinding
 import com.neeleshbuilds.healthsnap.ui.profile.ProfileActivity
 import com.neeleshbuilds.healthsnap.R
@@ -23,6 +24,8 @@ class UsernameActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+        Thread.sleep(2000)
+        installSplashScreen()
         LanguageManager.updateLanguage(this, LanguageManager.getCurrentLanguage(this))
         binding = ActivityUsernameBinding.inflate(layoutInflater)
         setContentView(binding.root)

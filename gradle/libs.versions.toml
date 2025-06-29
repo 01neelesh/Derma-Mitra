@@ -26,6 +26,7 @@ tensorflowLiteMetadata = "0.5.0"
 tensorflowLite = "2.17.0"
 playServicesLocation = "21.3.0"
 annotations = "26.0.2"
+coreSplashscreen = "1.2.0-beta02"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -60,6 +61,7 @@ tensorflow-lite = { group = "org.tensorflow", name = "tensorflow-lite", version.
 androidx-core = { group = "androidx.core", name = "core", version.ref = "coreKtx" } # Use coreKtx version for core as well
 play-services-location = { group = "com.google.android.gms", name = "play-services-location", version.ref = "playServicesLocation" }
 annotations = { group = "org.jetbrains", name = "annotations", version.ref = "annotations" }
+androidx-core-splashscreen = { group = "androidx.core", name = "core-splashscreen", version.ref = "coreSplashscreen" }
 
 
 [plugins]
