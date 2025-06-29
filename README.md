@@ -81,18 +81,43 @@ cd Derma-Mitra
 
 ---
 
-## 📸 Snapshots (Description)
+<h2>📸 Snapshots</h2>
 
-- **Splash/Login Screen** – ![Language selection](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/username.png?raw=true) ,
-- ![Onboarding](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/splashscreen.png?raw=true)
-- **User Registration** – ![Multi-language forms](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/create%20profile.png?raw=true)
-- **Scan Interface** – ![Capture/upload image](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/homepage.png?raw=true)
-- **Image Analysis** – ![Image preview & diagnostic prompt](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/analysisPage.png?raw=true)
-- **Diagnosis Results** – ![Health insights in chosen language](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/result%20page.png?raw=true)
-- **App Drawer** – ![Quick access to doctors](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/treatment%20options.png?raw=true)
-- ![treatments & more](https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/nearby%20dermatologists.png?raw=true)
+<!-- First Row -->
+<div align="center">
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/username.png?raw=true" alt="Language selection" width="250" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/splashscreen.png?raw=true" alt="Onboarding" width="250" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/create%20profile.png?raw=true" alt="Registration" width="250" style="margin: 8px;" />
+</div>
 
----
+<!-- Second Row -->
+<div align="center">
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/homepage.png?raw=true" alt="Home / Scan page" width="250" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/analysisPage.png?raw=true" alt="Image Analysis" width="250" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/result%20page.png?raw=true" alt="Diagnosis Result" width="250" style="margin: 8px;" />
+</div>
+
+[//]: # (## 📸 Snapshots &#40;Description&#41;)
+
+[//]: # ()
+[//]: # (- **Splash/Login Screen** – ![Language selection]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/username.png?raw=true&#41; ,)
+
+[//]: # (- ![Onboarding]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/splashscreen.png?raw=true&#41;)
+
+[//]: # (- **User Registration** – ![Multi-language forms]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/create%20profile.png?raw=true&#41;)
+
+[//]: # (- **Scan Interface** – ![Capture/upload image]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/homepage.png?raw=true&#41;)
+
+[//]: # (- **Image Analysis** – ![Image preview & diagnostic prompt]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/analysisPage.png?raw=true&#41;)
+
+[//]: # (- **Diagnosis Results** – ![Health insights in chosen language]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/result%20page.png?raw=true&#41;)
+
+[//]: # (- **App Drawer** – ![Quick access to doctors]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/treatment%20options.png?raw=true&#41;)
+
+[//]: # (- ![treatments & more]&#40;https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/nearby%20dermatologists.png?raw=true&#41;)
+
+[//]: # ()
+[//]: # (---)
 
 ## 🛣️ Roadmap: Future Upgrades
 
