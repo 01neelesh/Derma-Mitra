@@ -85,18 +85,18 @@ cd Derma-Mitra
 
 <!-- First Row -->
 <div align="center">
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/splashscreen.png?raw=true" alt="Onboarding" width="250" style="margin: 8px;" />
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/username.png?raw=true" alt="Language selection" width="250" style="margin: 8px;" />
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/create%20profile.png?raw=true" alt="Registration" width="250" style="margin: 8px;" />
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/treatment%20options.png?raw=true" alt="Treatment" width="250" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/splashscreen.png?raw=true" alt="Onboarding" width="200" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/username.png?raw=true" alt="Language selection" width="200" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/create%20profile.png?raw=true" alt="Registration" width="200" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/treatment%20options.png?raw=true" alt="Treatment" width="200" style="margin: 8px;" />
 </div>
 
 <!-- Second Row -->
 <div align="center">
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/homepage.png?raw=true" alt="Home / Scan page" width="250" style="margin: 8px;" />
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/analysisPage.png?raw=true" alt="Image Analysis" width="250" style="margin: 8px;" />
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/result%20page.png?raw=true" alt="Diagnosis Result" width="250" style="margin: 8px;" />
-  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/nearby%20dermatologists.png?raw=true" alt="Nearby Dermatologist" width="250" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/homepage.png?raw=true" alt="Home / Scan page" width="200" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/analysisPage.png?raw=true" alt="Image Analysis" width="200" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/result%20page.png?raw=true" alt="Diagnosis Result" width="200" style="margin: 8px;" />
+  <img src="https://github.com/01neelesh/Derma-Mitra/blob/main/screenshot/nearby%20dermatologists.png?raw=true" alt="Nearby Dermatologist" width="200" style="margin: 8px;" />
 </div>
 
 
